@@ -1,2 +1,2 @@
-# HalloNuxt
+# HelloNuxt
 Nuxtの門をたたく
