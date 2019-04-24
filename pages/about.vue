@@ -1,5 +1,8 @@
 <template>
-  <p>this is {{ name }}</p>
+  <div>
+    <h1>this is {{ name }}</h1>
+    <nuxt-link to="/">Home page</nuxt-link>
+  </div>
 </template>
 
 <script>
